@@ -1,6 +1,6 @@
 # caddy
 
-A [Docker](https://docker.com) image for [Caddy](https://caddyserver.com) forked from [abiosoft/caddy-docker] (https://github.com/abiosoft/caddy-docker). This image includes the [git](https://caddyserver.com/docs/http.git) and [cloudflare] (https://caddyserver.com/docs/tls.dns.cloudflare) plugins.  Plugins can be configured via the `plugins` build arg.
+A [Docker](https://docker.com) image for [Caddy](https://caddyserver.com) forked from [abiosoft/caddy-docker](https://github.com/abiosoft/caddy-docker). This image includes the [git](https://caddyserver.com/docs/http.git) and [cloudflare](https://caddyserver.com/docs/tls.dns.cloudflare) plugins.  Plugins can be configured via the `plugins` build arg.
 
 [![](https://images.microbadger.com/badges/image/abiosoft/caddy.svg)](https://microbadger.com/images/abiosoft/caddy "Get your own image badge on microbadger.com")
 
